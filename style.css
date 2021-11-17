@@ -1,0 +1,233 @@
+body{
+    
+    
+    text-align: center;
+}
+.profile{
+    
+    border-radius:50%;
+}
+#welcome{
+    
+    color:#00e5ff;
+    bottom:0;
+    background:linear-gradient(#0800ff 0%,#bfbdff 100%);
+    display:table;
+    width:100%;
+    height:100%;
+    z-index:9;
+}
+
+h1{
+    font-size:40px;
+    font-family:fantasy;
+    font-weight:300;
+}
+#name{
+    font-size:30px;
+    line-height:1.2;
+    font-family: 'Bonheur Royale', cursive;
+}
+
+#bio{
+    padding:50px;
+    text-align:center;
+    font-family: 'Bonheur Royale', cursive;
+}
+.line{
+    height:6px;
+    background-color:#910707;
+    width:70px;
+    margin:8px auto;
+}
+
+
+
+
+
+#video iframe{
+    width:80%;
+}
+.contact_1 a{
+    color:white;
+    text-shadow: none;
+}
+.contact_1 h3{
+    display: inline;
+}
+#contact iframe{
+    width: 100%;
+}
+.my_nav_bar{
+    position:sticky;
+    top:0;
+    z-index:99999;
+}
+input{
+    background-color:grey;
+}
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+}
